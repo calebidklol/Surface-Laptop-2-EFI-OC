@@ -3,7 +3,7 @@
 
 **TESTED ON VENTURA!!**
 
-Kexts Used
+###Kexts Used
 
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
 
@@ -21,7 +21,7 @@ Kexts Used
 
 [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
 
-**KNOWN ISSUES!!**
+###**KNOWN ISSUES!!**
 
 Sometimes when booting up, keyboard will not work, or battery may show as 100 and charging, restarting can fix this issue.
 
