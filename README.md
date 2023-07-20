@@ -6,9 +6,13 @@
 ## What works?
 
 Keyboard (Read Known Issues down below)
+
 Trackpad
+
 WiFi (NEED EXTERNAL WIFI DONGLE OR CONNECTOR!!!) or Ethernet
+
 Battery (Read Known Issues down below)
+
 Volume Function keys
 
 
@@ -16,9 +20,13 @@ Volume Function keys
 
 Sound
 Brightness key's
+
 Touchscreen (Not Tested)
+
 Ambient Light Sensor
+
 Power button, **cannot wake if it sleeps!!!**
+
 
 
 
