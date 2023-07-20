@@ -3,6 +3,26 @@
 
 **TESTED ON VENTURA!!**
 
+## What works?
+
+Keyboard (Read Known Issues down below)
+Trackpad
+WiFi (NEED EXTERNAL WIFI DONGLE OR CONNECTOR!!!) or Ethernet
+Battery (Read Known Issues down below)
+Volume Function keys
+
+
+## What doesn't work?
+
+Sound
+Brightness key's
+Touchscreen (Not Tested)
+Ambient Light Sensor
+Power button, **cannot wake if it sleeps!!!**
+
+
+
+
 ### Kexts Used
 
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
